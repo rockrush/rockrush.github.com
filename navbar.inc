@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang=zh>
+<head>
+	<meta charset="utf8">
+	<title>陈兴友@GitHub</title>
+	<link rel=stylesheet href="css/navbar.css" type="text/css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="">主页</a></li>
+ 			<li><a href="">成果</a></li>
+			<li><a href="">相册</a></li>              
+			<li><a href="">关于我</a></li>
+			<li><a href="">联系方式</a></li>
+		</ul>
+	</nav>
